@@ -1,5 +1,5 @@
-List of all upcomming UI
+## // For Cercial Image view
+# implementation 'de.hdodenhof:circleimageview:2.2.0'
 
-## profile_widget
 <img src="screen_short.jpg">
 <hr>
